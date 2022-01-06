@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.
 
 ✍️ &nbsp;In my free time, I learn new skills that will be useful to me in future projects.\
 💬 &nbsp;In a few years I plan to become a senior front-end developer.\
