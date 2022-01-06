@@ -13,7 +13,7 @@
 💬 &nbsp;In a few years I plan to become a senior front-end developer.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1Tq0Ne7Vh8QmdLdPlXOJsem0mRtc3jLQA/view?usp=sharing).
 
-<img alt="matrix" src="https://i.gifer.com/81O8.gif" align="right"/>
+<img alt="coding" src="./assets/coding.gif" align="right"/>
 
 
 ### 🛠 &nbsp;My tech stack
