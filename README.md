@@ -11,9 +11,9 @@
 
 ✍️ &nbsp;In my free time, I learn new skills that will be useful to me in future projects.\
 💬 &nbsp;In a few years I plan to become a senior front-end developer.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1Tq0Ne7Vh8QmdLdPlXOJsem0mRtc3jLQA/view?usp=sharing).
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1Tq0Ne7Vh8QmdLdPlXOJsem0mRtc3jLQA/view?usp=sharing).
 
-<img alt="coding" src="./assets/coding.gif" align="right"/>
+<img alt="coding" src="./assets/coding.gif" align="center"/>
 
 
 ### 🛠 &nbsp;My tech stack
