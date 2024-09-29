@@ -78,8 +78,15 @@
     </tr>
   </table>
 </div>
+&nbsp;
 
----
+<div id="counter" align="right">
+Страницу посмотрели:
+</div>
+<div id="counter" align="right">
+<img src="https://komarev.com/ghpvc/?username=belirofon&style=flat-square&color=blue"  alt="Счётчик просмотра страницы GitHub belirofon"/>
+</div>
+
 
 
 
