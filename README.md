@@ -25,7 +25,7 @@
 ✍️ В свободное время я осваиваю навыки, которые пригодятся мне в будущих проектах.<br>
 💬 В ближайшие годы планирую стать senior front-end разработчиком.<br>
 📄 Ознакомьтесь с моим <a href='https://docs.google.com/document/d/1DucI1n-Ga_cDSuXsEls7t0ihIOvE2D7kj4s4WnKkRP8/edit?usp=sharing' target="_blank" alt="Резюме Санников Н.В.">резюме</a>.<br>
-🌐 Посмотрите мое <a href="https://6724516908b675a79a228999--nickport.netlify.app/" target="_blank">портфолио</a>.
+🌐 Посмотрите мое <a href="https://nickport.netlify.app" target="_blank">портфолио</a>.
 
 <img alt="coding" src="./assets/coding.gif" align="center"/>
 
