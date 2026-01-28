@@ -33,7 +33,6 @@ Frontend / Fullstack Software Engineer с **5+ годами коммерческ
 
 Интересуюсь инженерными практиками, читаю технические статьи, слежу за развитием frontend-экосистемы.  
 Цель — развиваться как **Senior Frontend / Fullstack Engineer**, работая над продуктами с реальными пользователями.
-📄 Ознакомьтесь с моим <a href='https://docs.google.com/document/d/1DucI1n-Ga_cDSuXsEls7t0ihIOvE2D7kj4s4WnKkRP8/edit?usp=sharing' target="_blank" alt="Резюме Санников Н.В.">резюме</a>.<br>
 🌐 Посмотрите мое <a href="https://nickport.netlify.app" target="_blank">портфолио</a>.
 
 <img alt="coding" src="./assets/coding.gif" align="center"/>
