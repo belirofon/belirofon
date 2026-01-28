@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.ibb.co/KF6Rp0v/Nick-s-Git-Party.png" alt="Nick GitHub Banner"/>
-</div>
-
 <h2 align="center">👋 Привет, я Николай Санников</h2>
 <h4 align="center">Frontend / Fullstack Software Engineer</h4>
 
