@@ -1,29 +1,42 @@
 <div align="center">
-  <img src="https://i.ibb.co/KF6Rp0v/Nick-s-Git-Party.png"/>
+  <img src="https://i.ibb.co/KF6Rp0v/Nick-s-Git-Party.png" alt="Nick GitHub Banner"/>
 </div>
 
-### 👋 Добро пожаловать!
----
-📫 **Мои Контакты**:
-<div id="badges" align="center">
+<h2 align="center">👋 Привет, я Николай Санников</h2>
+<h4 align="center">Frontend / Fullstack Software Engineer</h4>
+
+<div align="center">
+  <h3>📫 Контакты</h3>
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/nick-sannikov88/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://t.me/nick_sann88">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/belirofon">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://nickport.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 👨🏻‍💻 О себе
-  
-Здравствуйте, уважаемый рекрутер. Меня зовут Санников Николай, я middle разработчик. Свой путь в it, я начал в 2020 году, с приходом ковида. В настоящее время работаю как fullstack node.js developer.
+### 👨‍💻 О себе
 
-Программирование - моя страсть, моё хобби. Много читаю статей на Хабре, иногда отвечаю на [Stack Overflow](https://stackoverflow.com/users/15042195/nikolai). Смотрю YouTube, читаю литературу по программированию. У меня есть семья и дети, я люблю путешествовать.<br>
-💡 Я люблю изучать новые технологии и создавать программные решения.<br>
-✍️ В свободное время я осваиваю навыки, которые пригодятся мне в будущих проектах.<br>
-💬 В ближайшие годы планирую стать senior front-end разработчиком.<br>
+Frontend / Fullstack Software Engineer с **5+ годами коммерческого опыта**.  
+Специализируюсь на разработке сложных интерфейсов, SPA и внутренних корпоративных систем.
+
+— Основной фокус: **Vue.js (2/3), React, TypeScript**  
+— Работаю с **legacy-кодом**, миграциями (Vue 2 → Vue 3) и оптимизацией производительности  
+— Понимаю backend-часть (**Node.js, NestJS, REST API, SQL**), что упрощает взаимодействие в команде  
+— Участвую в архитектурных обсуждениях, code review и оценке задач  
+
+Интересуюсь инженерными практиками, читаю технические статьи, слежу за развитием frontend-экосистемы.  
+Цель — развиваться как **Senior Frontend / Fullstack Engineer**, работая над продуктами с реальными пользователями.
 📄 Ознакомьтесь с моим <a href='https://docs.google.com/document/d/1DucI1n-Ga_cDSuXsEls7t0ihIOvE2D7kj4s4WnKkRP8/edit?usp=sharing' target="_blank" alt="Резюме Санников Н.В.">резюме</a>.<br>
 🌐 Посмотрите мое <a href="https://nickport.netlify.app" target="_blank">портфолио</a>.
 
