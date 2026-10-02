@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nikolai Sannikov</h1>
+<h1 align="center">Hi, I'm Nick Sannikov</h1>
 
 <h3 align="center">
   Senior Fullstack Engineer · AI-Assisted Engineering
