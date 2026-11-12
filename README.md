@@ -23,6 +23,9 @@
   <a href="https://nickport.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://github.com/belirofon/cv">
+    <img src="https://img.shields.io/badge/Resume-Download-181717?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 ---
@@ -67,6 +70,14 @@ more time on engineering decisions that matter.**
 | CI/CD | Reduced pipeline execution time to ~11.4 minutes |
 | Frontend performance | Improved initial page load by 12.3% |
 | E-commerce | Fixed 100+ critical bugs across checkout modules |
+
+---
+
+## 📄 Resume / CV
+
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/belirofon/cv/blob/main/Nick_Sannikov_Resume_v2.pdf)
+
+Full resume available at [github.com/belirofon/cv](https://github.com/belirofon/cv) — includes detailed work history, skills, and project highlights.
 
 ---
 
